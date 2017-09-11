@@ -1,0 +1,13 @@
+body{
+    background-image:url(../images/Home.png);
+	background-repeat:no-repeat;
+	
+}
+h1{
+  color: 	99FF33;
+  text-align:right;
+}
+
+p.quote{
+text-align:right;
+}
